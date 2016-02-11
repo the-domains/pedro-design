@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pedro Design]]></title>
+        <description><![CDATA[Pedro Design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 07:40:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artisanal coffee machine from Poppy]]></title>
+            <description><![CDATA[<article><h1>Artisanal coffee machine from Poppy</h1><p>Make Coffee</p><img src="https://poppyhome.com/assets/pour-over/machine-b168819736f810243c7e3736a8594c33.png"></article>]]></description>
+            <link>undefinedartisanal-coffee-machine-from-poppy/index.html</link>
+            <guid isPermaLink="false">6e1ed65d-0b68-40a8-ac3c-7f3e6aac29c6</guid>
+            <pubDate>Thu, 11 Feb 2016 07:39:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
