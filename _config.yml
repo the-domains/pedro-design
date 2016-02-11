@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.04301075
+color:
+  saturation: 0.6572857
+  lightness: 0.4636568
+  brandStrength: 0.5071685
+  brandColors:
+    - '#E8DEC8'
+    - '#A3A1A3'
+    - '#544130'
+    - '#786D5B'
+    - '#F16E30'
+  rhythmicContrast: 0.385065
+name: Pedro Design
