@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pedro Design]]></title>
         <description><![CDATA[Pedro Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pedro-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 07:40:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 08:58:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pedro-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nike bought Portland a $10 million bike share program]]></title>
+            <description><![CDATA[<article><h1>Nike bought Portland a $10 million bike share program</h1><p>Portland's status as a bike friendly town is hardly in dispute. Just look at the city's No. 4 ranking in Bicycling magazine's top 50 favorite towns, or at Fred Armisen's aggressive, whistle-blowing cyclist in Portlandia (" Bicycle rights!"). This summer, Portland is getting a new addition to its bike infrastructure, and in a familiar shade of orange, too.</p><img src="https://cdn1.vox-cdn.com/thumbor/KduigBOMZKmctm_b-gxnPiuq9fI=/0x192:1600x1092/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/48835787/Nike_BIKETOWN_hero_LIGHT_native_1600.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/2/16/11019754/nike-portland-biketown-bike-share-orange</link>
+            <guid isPermaLink="false">0dd70ce1-fcff-443b-8e4a-f245298b8e10</guid>
+            <pubDate>Wed, 17 Feb 2016 08:56:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Artisanal coffee machine from Poppy]]></title>
-            <description><![CDATA[<article><h1>Artisanal coffee machine from Poppy</h1><p>Make Coffee</p><img src="https://poppyhome.com/assets/pour-over/machine-b168819736f810243c7e3736a8594c33.png"></article>]]></description>
-            <link>undefinedartisanal-coffee-machine-from-poppy/index.html</link>
+            <description><![CDATA[<article><h1>Artisanal coffee machine from Poppy</h1><p>Make Coffee</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6509c4eb20032952ab0193032d475917a094fefa.png"></article>]]></description>
+            <link>https://thegrid.ai/pedro-design/artisanal-coffee-machine-from-poppy/index.html</link>
             <guid isPermaLink="false">6e1ed65d-0b68-40a8-ac3c-7f3e6aac29c6</guid>
             <pubDate>Thu, 11 Feb 2016 07:39:17 GMT</pubDate>
         </item>
