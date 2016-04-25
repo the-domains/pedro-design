@@ -1,14 +1,28 @@
+name: Pedro Design
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.04301075
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6572857
-  lightness: 0.4636568
-  brandStrength: 0.5071685
   brandColors:
-    - '#E8DEC8'
-    - '#A3A1A3'
-    - '#544130'
-    - '#786D5B'
-    - '#F16E30'
-  rhythmicContrast: 0.385065
-name: Pedro Design
+    - '#f2ffff'
+    - '#252324'
+    - '#a2c5e5'
+    - '#58606c'
+    - '#a58d35'
+  brandStrength: 0.6875
+  lightness: 0.3125
+  saturation: 0.6875
+  rhythmicContrast: 0.75
+purpose: []
